@@ -1,0 +1,219 @@
+/* Medium Layout: 1280px. */
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+ 
+button {
+	right: 40px;
+}
+.contact h5 {
+	font-size: 16px;
+}
+.contact h5 small {
+	font-size: 14px;
+}
+
+
+
+
+	}
+/* Tablet Layout: 768px. */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .service-left h1 {
+	font-size: 22px;
+	margin: 30px 0;
+}
+.service-left p {
+	font-size: 16px;
+	line-height: 25px;
+}
+.serv-img1 {
+	margin-bottom: 107px;
+}
+.single-counter {
+	margin-bottom: 50px;
+}
+.single-counter::before {
+	bottom: 30px;
+}
+.single-price {
+	margin-bottom: 41px;
+}
+.content {
+	top: -8px;
+	padding-left: 84px;
+}
+.content h4 {
+	font-size: 15px;
+}
+.single-blog{
+	margin-bottom: 30px;
+}
+.single-footer{
+	margin-bottom: 30px;
+}
+.title-price h4 {
+	font-size: 25px;
+	text-transform: capitalize;
+}
+.title-price i {
+	width: 50px;
+	height: 40px;
+	line-height: 45px;
+}
+}
+/* Mobile Layout: 320px. */
+
+@media only screen and (max-width: 767px) {
+  .service-left h1 {
+	font-size: 18px;
+	margin: 23px 0;
+}
+.service-left span {
+	font-size: 15px;
+}
+.service-left span i {
+	font-size: 18px;
+}
+.service-left p {
+	font-size: 16px;
+	color: #888e94;
+	margin: 0 0 34px;
+	line-height: 23px;
+}
+.box-btn {
+	font-size: 15px;
+}
+.serv-img1 {
+	margin-bottom: 116px;
+}
+.single-serv span {
+	font-size: 30px;
+	left: 0;
+}
+.single-serv h4 {
+	padding-left: 16%;
+	font-size: 18px;
+}
+.single-serv p {
+	font-size: 14px;
+	margin-top: 7px;
+}
+.section-title h4 {
+	font-size: 16px;
+	margin-bottom: 12px;
+}
+.section-title h4 i {
+	font-size: 20px;
+}
+.section-title p {
+	font-size: 16px;
+	margin-bottom: 20px;
+	line-height: 26px;
+	color: #687772;
+}
+.software-list ul li {
+	width: 100%;
+}
+.software-list ul li a{
+	font-family: 15px;
+}
+.pb-80 {
+	padding-bottom: 30px;
+}
+.counter-icon i {
+	font-size: 38px;
+	margin-bottom: 15px;
+	color: #fff;
+	font-weight: 0;
+}
+.content-counter span {
+	font-size: 37px;
+}
+.single-counter {
+	margin-bottom: 60px;
+}
+.single-counter::before {
+	bottom: 45px;
+}
+.title-price h4 {
+	font-size: 20px;
+	margin-top: 12px;
+}
+.title-price i {
+	font-size: 17px;
+	width: 45px;
+	height: 40px;
+	line-height: 45px;
+}
+.price-list ul li {
+	font-size: 16px;
+	margin-bottom: 5px;
+}
+.single-price a {
+	font-size: 16px;
+} 
+.top-inner-price h4 {
+	font-size: 18px;
+}
+.prices {
+	font-size: 28px;
+}
+.content {
+	top: 0;
+	padding-left: 87px;
+}
+.content h4 {
+	font-size: 15px;
+}
+.single-blog{
+	margin-bottom: 50px;
+}
+.blog-content h4 {
+	font-size: 14px;
+	font-weight: 600;
+}
+.blog-content p {
+	line-height: 25px;
+	font-size: 15px;
+}
+.single-footer p {
+	margin-top: 26px;
+	font-size: 16px;
+	line-height: 25px;
+}
+.contact h5 {
+	font-size: 16px;
+}
+.contact h5 small {
+	font-size: 13px;
+}
+.single-footer {
+	margin-bottom: 30px;
+}
+.single-footer h4 {
+	margin-bottom: 16px;
+	font-size: 20px;
+}
+.footer-list ul li a {
+	font-size: 16px;
+}
+.footer-list ul li {
+	margin-bottom: 10px;
+}
+.seach form input {
+	font-size: 15px;
+}
+button {
+	font-size: 30px;
+	padding: 2px 12px;
+	top: 35px;
+	right: 78px;
+}
+}
+/* Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	
+	
+}
